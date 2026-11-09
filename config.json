@@ -1,6 +1,7 @@
 {
   "tmdb_key": "f5149878cdff80ef89d0910a73750279",
-  "moviesApiUrl1": "https://pelisplushd.tvymas.workers.dev/peliculas?page=",
+  "wmoviesApiUrl1": "https://pelisplushd.tvymas.workers.dev/peliculas?page=",
+  "moviesApiUrl1": "https://moviezone.tvjz.workers.dev/1/peliculas?page=",
   "moviesApiUrl2": "https://lamoviebot.tvymas.workers.dev/movies?page=",
   "seriesApiUrl1": "https://pelisplushd.tvymas.workers.dev/series?page=",
   "seriesApiUrl2": "https://lamoviebot.tvymas.workers.dev/series?page=",
