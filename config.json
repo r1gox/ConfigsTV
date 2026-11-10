@@ -1,14 +1,16 @@
 {
   "tmdb_key": "f5149878cdff80ef89d0910a73750279",
   "wmoviesApiUrl1": "https://pelisplushd.tvymas.workers.dev/peliculas?page=",
-  "moviesApiUrl1": "https://moviezone.tvjz.workers.dev/1/peliculas?page=",
-  "moviesApiUrl2": "https://lamoviebot.tvymas.workers.dev/movies?page=",
+  "moviezoneApiUrl": "https://moviezone.tvjz.workers.dev/1/peliculas?page=",
   "seriesApiUrl1": "https://pelisplushd.tvymas.workers.dev/series?page=",
   "seriesApiUrl2": "https://lamoviebot.tvymas.workers.dev/series?page=",
+  "seriesApiActive": 1,
   "doramasApiUrl": "https://pelisplushd.tvymas.workers.dev/doramas?page=",
   "animesApiUrl": "https://pelisplushd.tvymas.workers.dev/animes?page=",
   "countriesIptvBase": "https://iptv-org.github.io/iptv/countries/",
   "liveAllM3u": "https://iptv-org.github.io/iptv/languages/spa.m3u",
   "liveLatamM3u": "https://iptv-org.github.io/iptv/regions/latam.m3u",
-  "freeTvBase": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_"
+  "freeTvBase": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_",
+  "latest_version": "2.0.0",
+  "version_message": "Hay una nueva version de PlayZoneTV disponible. Vuelve a descargar el canal desde GitHub e instalalo de nuevo en tu Roku para tener las ultimas mejoras."
 }
