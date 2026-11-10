@@ -5,6 +5,7 @@
   "seriesApiActive": 1,
   "doramasApiUrl": "https://pelisplushd.tvymas.workers.dev/doramas?page=",
   "animesApiUrl": "https://moviezone.tvjz.workers.dev/1/animes?page=",
+  "searchApiUrl": "https://moviezone.tvjz.workers.dev/1?q=",
   "countriesIptvBase": "https://iptv-org.github.io/iptv/countries/",
   "liveAllM3u": "https://iptv-org.github.io/iptv/languages/spa.m3u",
   "liveLatamM3u": "https://iptv-org.github.io/iptv/regions/latam.m3u",
