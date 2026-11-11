@@ -1,6 +1,6 @@
 {
   "tmdb_key": "f5149878cdff80ef89d0910a73750279",
-  "moviezoneApiUrl": "https://moviezone.tvjz.workers.dev/1/peliculas?page=",
+  "moviezoneApiUrl": "https://moviezone.tvjz.workers.dev/2/peliculas?page=",
   "seriesApiUrl1": "https://moviezone.tvjz.workers.dev/1/series?page=",
   "seriesApiActive": 1,
   "doramasApiUrl": "https://pelisplushd.tvymas.workers.dev/doramas?page=",
